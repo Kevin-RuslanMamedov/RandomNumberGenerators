@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\obj\Debug\netcoreapp3.1\TäringuMäng.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\obj\Debug\netcoreapp3.1\TäringuMäng.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\obj\Debug\netcoreapp3.1\TäringuMäng.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\bin\Debug\netcoreapp3.1\EpicDiceGame.exe
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\bin\Debug\netcoreapp3.1\EpicDiceGame.deps.json
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\bin\Debug\netcoreapp3.1\EpicDiceGame.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\bin\Debug\netcoreapp3.1\EpicDiceGame.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\bin\Debug\netcoreapp3.1\EpicDiceGame.dll
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\bin\Debug\netcoreapp3.1\EpicDiceGame.pdb
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\obj\Debug\netcoreapp3.1\EpicDiceGame.dll
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\obj\Debug\netcoreapp3.1\EpicDiceGame.pdb
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\TäringuMäng\obj\Debug\netcoreapp3.1\TäringuMäng.genruntimeconfig.cache

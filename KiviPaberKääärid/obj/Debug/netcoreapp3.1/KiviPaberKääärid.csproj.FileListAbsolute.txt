@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\bin\Debug\netcoreapp3.1\KiviPaberKääärid.exe
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\bin\Debug\netcoreapp3.1\KiviPaberKääärid.deps.json
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\bin\Debug\netcoreapp3.1\KiviPaberKääärid.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\bin\Debug\netcoreapp3.1\KiviPaberKääärid.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\bin\Debug\netcoreapp3.1\KiviPaberKääärid.dll
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\bin\Debug\netcoreapp3.1\KiviPaberKääärid.pdb
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.dll
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.pdb
+C:\Users\opilane\source\repos\titpe21\RandomNumberGenerators\KiviPaberKääärid\obj\Debug\netcoreapp3.1\KiviPaberKääärid.genruntimeconfig.cache
